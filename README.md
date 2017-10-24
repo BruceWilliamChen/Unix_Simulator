@@ -12,7 +12,7 @@ This repo is dedicated to the implementation of a simulator for unix system
 
 [Multithreading Programming](https://en.wikipedia.org/wiki/Thread_(computing)) :rocket: - Programming design to allow multithreading executions that drastically improve running speed and efficiency
 
-[Multithreading Programming](https://en.wikipedia.org/wiki/Synchronization_(computer_science)) :moon: - Background of synchronizations and how it critiques the resources sharing between processes
+[Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)) :moon: - Background of synchronizations and how it critiques the resources sharing between processes
 
 ## The basic picture :bulb:
 
