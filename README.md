@@ -20,14 +20,14 @@ This repo is dedicated to the implementation of a simulator for unix system
 
 Implementing a Unix shell emulator which takes in input commands and interacts with the users and utilizing Java multithreading programming API to allow execution concurrency for command pipelines and support background execution for marked command filters
 
-### Unix file system :gem:
+### Synchronization Model and Unix file system :gem:
 
-Implementing a producer-consumer synchronization model and a Unix file system simulator that simulates read, write, create and delete files on a virtual disk with supporting for large file handling by using the techniques of single, double and triple indirection
+Implementing a tunnel-vehicle synchronization model and a Unix file system simulator that simulates read, write, create and delete files on a virtual disk with supporting for large file handling by using the techniques of single, double and triple indirection
 
 ## To-Do List :pencil:
 
 - [X] Implemented a unix shell command line interface
 - [X] Achieved multithreading execution of commands and allow background processes
-- [ ] Implementing a producer-consumer model and introducing client and server objects
-- [ ] Implementing the file system
-- [ ] Adding support for all I/O operations and support large file handling
+- [X] Implementing a Tunnel-Vehicle model to show synchronization
+- [X] Implementing the file system
+- [X] Adding support for some I/O operations and support large file handling
